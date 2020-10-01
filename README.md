@@ -1,0 +1,1 @@
+# component-without-return-statement
